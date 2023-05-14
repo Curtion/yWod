@@ -38,3 +38,11 @@
 
 1. Symmetric NAT + Symmetric NAT(无法通信)
 2. Symmetric NAT + Port Restricted Cone NAT(概率小)
+
+# WebRTC
+
+WebRTC有完整的协议，可进行穿透发送数据
+
+![pion](./images/pion.webp)
+
+![peer-connection](./images/peer-connection.png)
